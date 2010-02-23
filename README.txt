@@ -7,7 +7,7 @@ One of the uses is if you want to set up a "beta" section on your website and gi
 Features:
     * Block and unblock on predetermined times.
     * You can block your whole website or just parts of it.
-    * Show your visitors static HTML or redirect your visitors to another page/site.
+    * Redirect your visitors to another page/site when they try to access a blocked area.
     * Admins won't be affected by the block (obviously).
     * Specify paths that you want blocked (like /faq, /restricted/area).
 
